@@ -2,7 +2,7 @@
 
 # Awesome ExpressJS App
 
-This repository contains a simple and elegant Express.js application built with Express.js app and pug template engine, all code generated ChatGPT. I will post a video on my channel with me building it with ChatGPT as a copilit https://www.youtube.com/channel/UCGqLuT0upPiocwYSnnmqt2g/videos  
+This repository contains a simple and elegant Express.js application built with Express.js app and [pug high-performance template engine template engine](https://pugjs.org/api/getting-started.html), all code generated ChatGPT. I will post a video [on my YouTube channel](https://www.youtube.com/@pH7Programming/videos) with me building it with ChatGPT as a copilit.
 
 ## Features
 

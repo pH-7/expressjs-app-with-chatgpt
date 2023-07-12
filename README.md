@@ -2,7 +2,7 @@
 
 # Awesome ExpressJS App
 
-Welcome to the Awesome ExpressJS App repository! This repository contains a simple and elegant Express.js application that will blow your mind. It's designed to showcase the power and flexibility of Express.js while providing a solid foundation for building your web applications.
+This repository contains a simple and elegant Express.js application built with Express.js app and pug template engine, all code generated ChatGPT. I will post a video on my channel with me building it with ChatGPT as a copilit https://www.youtube.com/channel/UCGqLuT0upPiocwYSnnmqt2g/videos  
 
 ## Features
 

@@ -39,6 +39,6 @@ We would like to express our gratitude to the incredible open-source community f
 
 ## Contact
 
-If you have any questions, suggestions, or just want to say hi, feel free to reach out to us at [your-email@example.com](mailto:your-email@example.com). We would love to hear from you!
+It's me, [Pierre-Henry Soria](https://pierrehenry.dev). A passionate and enthusiastic problem-solver and product software engineer. Also a true Roquefort 🧀, ristretto ☕️, and dark chocolate lover 🤩
 
 Let's build something awesome together!

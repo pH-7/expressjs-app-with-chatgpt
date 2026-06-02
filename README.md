@@ -1,5 +1,9 @@
 # My Express app built with ChatGPT
 
+[![The Rabbits and Wolves World Project](https://i1.ytimg.com/vi/5uAmNuHAKdU/sddefault.jpg)](https://youtu.be/5uAmNuHAKdU)
+
+[▶ Click here to watch on YouTube](https://youtu.be/5uAmNuHAKdU)
+
 # Awesome ExpressJS App
 
 This repository contains a simple and elegant Express.js application built with Express.js app and [Pug, a high-performance template engine](https://pugjs.org/api/getting-started.html). I've used ChatGPT as a copilot to build all of this. I will post soon a video [on my YouTube channel](https://www.youtube.com/@pH7Programming/videos) showing all of this.

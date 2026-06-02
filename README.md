@@ -1,4 +1,4 @@
-# My Express app built with ChatGPT
+# My Express app built 100% with the old ChatGPT 3
 
 [![The Rabbits and Wolves World Project](https://i1.ytimg.com/vi/5uAmNuHAKdU/sddefault.jpg)](https://youtu.be/5uAmNuHAKdU)
 
